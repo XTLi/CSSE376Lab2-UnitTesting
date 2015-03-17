@@ -39,7 +39,5 @@ namespace ExpediaTest
         {
             new Hotel(-5);
         }
-
-
     }
 }
